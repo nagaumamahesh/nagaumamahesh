@@ -1,4 +1,6 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Full+Stack+Developer;Learning+Cloud;Love+JavaScript)](https://git.io/typing-svg)
+-->
 
 ## Hi I'm Naga Uma Mahesh 👋
 
@@ -10,7 +12,7 @@
 
 ## 📊My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=nagaumamahesh&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nagaumamaheshtheme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nagaumamahesh&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaumamahesh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## Connect with me
