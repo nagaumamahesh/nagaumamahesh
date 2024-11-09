@@ -1,16 +1,22 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=800&lines=Full+Stack+Developer;Learning+Cloud;Love+JavaScript)](https://git.io/typing-svg)
+
+## Hi I'm Naga Uma Mahesh 👋
+
+
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=tailwind,nodejs,jquery,vscode,sqlite,mongodb)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+
+## 📊My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nagaumamahesh&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nagaumamaheshtheme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaumamahesh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**nagaumamahesh/nagaumamahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Connect with me
+<p align="left">
+<a href = "https://www.linkedin.com/in//"><img src="https://skillicons.dev/icons?i=linkedin" width="38px"/></a>
+<a href = "https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" width="38px"/></a>
+</p>
 -->
