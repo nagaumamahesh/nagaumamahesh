@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nagaumamahesh&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nagaumamaheshtheme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaumamahesh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 ## Connect with me
 <p align="left">
