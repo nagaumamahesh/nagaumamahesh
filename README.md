@@ -10,6 +10,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=nagaumamahesh/eventticket@github)](https://gitads.dev/v1/ad-track?source=nagaumamahesh/eventticket@github)
+
 ---
 
 ## 🚀 About Me
